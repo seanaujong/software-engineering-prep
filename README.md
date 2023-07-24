@@ -2,7 +2,7 @@
 
 This repo covers introductory computer science topics, and lays out a curriculum that resembles my [college degree][1]. You can also read my blog on [what I used to learn software engineering][2].
 
-I denote the difficulty of each section with the following colors:
+I denote the difficulty of each section with the following:
 
 - <span style="color: green;">Easy</span>
 - <span style="color: yellow;">Challenging</span>
@@ -14,6 +14,8 @@ Even if the topic is <span style="color: red;">hard</span>, I try to suggest the
 [2]: https://medium.com/@seanaujong/a-software-engineering-journey-for-beginners-a08640916929
 
 ## <span style="color: yellow;">Harvard CS50's Introduction to Computer Science</span>
+
+> Challenging
 
 CS50's Introduction to Computer Science is the foundation for all of your software engineering skills. Here's what I want you to do:
 
@@ -41,11 +43,15 @@ CS50's Introduction to Computer Science is the foundation for all of your softwa
 
 ## <span style="color: green;">Cloud</span>
 
+> Easy
+
 Now that you have some programming experience under the belt, let’s talk about the cloud. It seems like every company these days wants to “move to the cloud.” But what does that mean? Read this book to find out what the cloud is and why it’s so important.
 
 - [Explain the Cloud Like I'm 10](https://www.amazon.com/dp/B0765C4SNR)
 
 ## <span style="color: yellow;">Practical Skills</span>
+
+> Challenging
 
 It's important to be familiar with web programming and artificial intelligence. Make a side project with these skills.
 
@@ -56,6 +62,8 @@ It's important to be familiar with web programming and artificial intelligence. 
 
 ## <span style="color: yellow;">Coding Interviews</span>
 
+> Challenging
+
 Next, get used to LeetCode and coding interviews with the [NeetCode 150](https://neetcode.io/practice) list. Did you get stuck? It's time to learn more about algorithms.
 
 - [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
@@ -63,22 +71,22 @@ Next, get used to LeetCode and coding interviews with the [NeetCode 150](https:/
 
 ## <span style="color: red;">Algorithms and Math</span>
 
-> WARNING: MATH
+> Hard
 
 My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. The prerequisite is [high school algebra and trigonometry](https://www.khanacademy.org/). These skills are used in the data science and machine learning fields.
 
-### <span style="color: yellow;">From Probability and Statistics to Data Science</span>
+### From Probability and Statistics to Data Science
 
 - [Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
 - [Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
 
-### <span style="color: red;">Algorithms</span>
+### Algorithms
 
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 - [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
-### <span style="color: yellow;">Linear Algebra</span>
+### Linear Algebra
 
 - [Linear Algebra with Gilbert Strang](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
@@ -91,7 +99,7 @@ My math curriculum in university included [calculus](https://www.youtube.com/pla
 
 ## <span style="color: red;">Hardware to Software</span>
 
-> WARNING: IT'S ALL LOW-LEVEL CONCEPTS
+> Hard
 
 Unless you decide to work on lower-level systems, you don't need to completely master the content in here. However, operating systems are core to any computer science curriculum.
 
