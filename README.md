@@ -39,6 +39,7 @@ This repo covers introductory computer science topics, and lays out a curriculum
 
 ### Algorithms
 
+- [High school algebra and trigonometry](https://www.khanacademy.org/)
 - [Single Variable Calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1)
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
@@ -46,6 +47,7 @@ This repo covers introductory computer science topics, and lays out a curriculum
 
 ### Linear Algebra
 
+- [Linear Algebra with Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 - [Linear Algebra with Gilbert Strang](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [A 2020 Vision of Linear Algebra](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 - [The Big Picture of Linear Algebra](https://www.youtube.com/watch?v=ggWYkes-n6E)
