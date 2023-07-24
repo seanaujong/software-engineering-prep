@@ -1,18 +1,17 @@
 # Optional Curriculum
 
-These resources are also fulfilling, and you can use them if they seem interesting to you.
+These interesting resources serve to further round out your education.
+
+## Robert Nystrom
+
+Robert Nystrom is the author of two free online books that can help you become a better software engineer:
+
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## HarvardX
 
-[edx.org/school/harvardx](https://www.edx.org/school/harvardx)
-
-### More From the CS50 Series
-
-[edx.org/cs50](https://www.edx.org/cs50)
-
-- [Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
-- [Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
-- [Introduction to Cybersecurity](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
+[HarvardX](https://www.edx.org/school/harvardx) provides lots of fulfilling courses other than CS50.
 
 ### Big Data
 
@@ -30,6 +29,13 @@ These resources are also fulfilling, and you can use them if they seem interesti
 - [American Government and Politics](https://www.edx.org/xseries/harvardx-us-government)
 - [World Religions through Scriptures](https://www.edx.org/xseries/harvardx-world-religions-through-scriptures)
 - [Shakespeare](https://www.edx.org/xseries/harvardx-shakespeares-life-work-and-characters)
+
+### More From the CS50 Series
+
+- [Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+- [Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
+- [Introduction to Cybersecurity](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
+- [Full CS50 List](https://www.edx.org/cs50)
 
 ## Android
 
