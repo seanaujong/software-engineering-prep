@@ -23,6 +23,10 @@ This repo covers introductory computer science topics, and lays out a curriculum
 - [Introduction to Programming with Python](cs50.harvard.edu/python)
     - [DorsCodingSchool](https://www.youtube.com/playlist?list=PLo_wesNOyQTNkV3DzBMz5HNfUDrVTEeh9)
 
+## Coding Interviews
+
+- [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
+
 ## Algorithms and Math
 
 ### Supplementary Algorithms
@@ -55,10 +59,6 @@ This repo covers introductory computer science topics, and lays out a curriculum
 - [Linear Algebra with Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 - [A 2020 Vision of Linear Algebra](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 - [The Big Picture of Linear Algebra](https://www.youtube.com/watch?v=ggWYkes-n6E)
-
-## Coding Interviews
-
-- [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
 
 ## Hardware to Software
 
