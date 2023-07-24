@@ -5,7 +5,7 @@ This repo covers introductory computer science topics, and lays out a curriculum
 [1]: https://www.cs.utexas.edu/sites/default/files/documents/4-Year%20Plan_1.pdf
 [2]: https://medium.com/@seanaujong/a-software-engineering-journey-for-beginners-a08640916929
 
-## Harvard CS50 Series
+## Harvard CS50's Introduction to Computer Science
 
 CS50's Introduction to Computer Science is the foundation for all of your software engineering skills. Here's what I want you to do:
 
@@ -89,4 +89,4 @@ Unless you decide to work on lower-level systems, you don't need to completely m
 
 # Optional Curriculum
 
-[This optional document](./OPTIONAL.md) covers more CS50 courses, Big Data, machine learning, soft skills, native Android development, and other life skills.
+[This optional document](./OPTIONAL.md) covers more CS50 courses, Big Data, machine learning, soft skills, native Android development, and more.
