@@ -1,6 +1,6 @@
 # Software Engineering Curriculum
 
-This repo attempts to cover topics that you might find in an introductory computer science course. You can also read my blog on [what I used to learn software engineering][1]
+This repo covers introductory computer science topics, and lays out a curriculum that resembles my [college degree](https://www.cs.utexas.edu/sites/default/files/documents/4-Year%20Plan_1.pdf). You can also read my blog on [what I used to learn software engineering][1].
 
 [1]: https://medium.com/@seanaujong/a-software-engineering-journey-for-beginners-a08640916929
 
@@ -25,9 +25,20 @@ This repo attempts to cover topics that you might find in an introductory comput
 - [Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 - [Introduction to Cybersecurity](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
 
-## Algorithms and Coding Interviews
+## Algorithms and Math
 
-- [An Introduction to Algorithms](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
+### Gentle Introduction
+
+- [Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
+
+### MIT
+
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+- [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+- [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
+## Coding Interviews
+
 - [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
 
 
