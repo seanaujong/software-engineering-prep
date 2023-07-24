@@ -16,6 +16,7 @@ This repo covers introductory computer science topics, and lays out a curriculum
 - [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 - [Introduction to Databases with SQL](https://www.edx.org/course/cs50s-introduction-to-databases-with-sql)
 - [Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+    - [AI vs. Data Science](https://www.youtube.com/watch?v=kNrw64dmfpk)
 
 ### Optional
 
@@ -31,21 +32,28 @@ This repo covers introductory computer science topics, and lays out a curriculum
 
 - [Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
 
-### MIT
+### From Probability and Statistics to Data Science
 
+- [Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
+- [Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
+
+### Algorithms
+
+- [Single Variable Calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1)
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 - [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
+### Linear Algebra
+
+- [Linear Algebra with Gilbert Strang](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+- [A 2020 Vision of Linear Algebra](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
+- [The Big Picture of Linear Algebra](https://www.youtube.com/watch?v=ggWYkes-n6E)
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+
 ## Coding Interviews
 
 - [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
-
-
-## Android
-
-- [Modern Android development](https://developer.android.com/modern-android-development)
-- [Understanding Gradle](https://github.com/jjohannes/understanding-gradle)
 
 ## Hardware to Software
 
@@ -67,16 +75,15 @@ This repo covers introductory computer science topics, and lays out a curriculum
 - [Big Data for Education](https://www.edx.org/professional-certificate/harvardx-big-data-for-education)
 - [Big Data for Social Good](https://www.edx.org/professional-certificate/harvardx-big-data-for-social-good)
 
-### Data Science
-
-- [Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
-- [Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
-
 ### Machine Learning
 
 - [TinyML](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 - [Applied TinyML for Scale](https://www.edx.org/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale)
 
+## Android
+
+- [Modern Android development](https://developer.android.com/modern-android-development)
+- [Understanding Gradle](https://github.com/jjohannes/understanding-gradle)
 ## Other Life Skills
 
 - [Khan Academy](https://www.khanacademy.org/college-careers-more)
