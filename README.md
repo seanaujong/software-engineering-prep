@@ -1,10 +1,8 @@
-# Software Engineering Prep
+# Software Engineering Curriculum
 
-To get started, make sure you understand the content from [what I used to learn software engineering][1]. This repo attempts to cover topics that you might find in an introductory computer science course.
+This repo attempts to cover topics that you might find in an introductory computer science course. You can also read my blog on [what I used to learn software engineering][1]
 
 [1]: https://medium.com/@seanaujong/a-software-engineering-journey-for-beginners-a08640916929
-
-# Curriculum Overview
 
 ## Harvard CS50 Series
 
