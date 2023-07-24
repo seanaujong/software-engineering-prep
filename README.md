@@ -1,8 +1,10 @@
 # Software Engineering Curriculum
 
-This repo covers introductory computer science topics, and lays out a curriculum that resembles my [college degree](https://www.cs.utexas.edu/sites/default/files/documents/4-Year%20Plan_1.pdf). You can also read my blog on [what I used to learn software engineering][1].
+This repo covers introductory computer science topics, and lays out a curriculum that resembles my [college degree][1]. You can also read my blog on [what I used to learn software engineering][2].
 
-[1]: https://medium.com/@seanaujong/a-software-engineering-journey-for-beginners-a08640916929
+
+[1]: https://www.cs.utexas.edu/sites/default/files/documents/4-Year%20Plan_1.pdf
+[2]: https://medium.com/@seanaujong/a-software-engineering-journey-for-beginners-a08640916929
 
 ## Harvard CS50 Series
 
