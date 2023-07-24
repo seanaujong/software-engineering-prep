@@ -16,12 +16,11 @@ This repo covers introductory computer science topics, and lays out a curriculum
 - [Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
     - [AI vs. Data Science](https://www.youtube.com/watch?v=kNrw64dmfpk)
 
-#### Supplementary if CS50 is too daunting
+#### If CS50 is too difficult at first, then these two courses may help:
 
 - [Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
     - If you don't consider yourself a "computer person"
 - [Introduction to Programming with Python](cs50.harvard.edu/python)
-    - If CS50 is that much more difficult, then starting here may be a bit easier
     - [DorsCodingSchool](https://www.youtube.com/playlist?list=PLo_wesNOyQTNkV3DzBMz5HNfUDrVTEeh9)
 
 ## Algorithms and Math
