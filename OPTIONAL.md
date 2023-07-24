@@ -2,14 +2,14 @@
 
 These interesting resources serve to further round out your education.
 
-## Robert Nystrom
+## <span style="color: yellow;">Robert Nystrom</span>
 
 Robert Nystrom is the author of two free online books that can help you become a better software engineer:
 
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 
-## HarvardX
+## <span style="color: yellow;">HarvardX</span>
 
 [HarvardX](https://www.edx.org/school/harvardx) provides lots of fulfilling courses other than CS50.
 
@@ -32,21 +32,22 @@ Robert Nystrom is the author of two free online books that can help you become a
 
 ### More From the CS50 Series
 
+- [Introduction to Databases with SQL](https://www.edx.org/course/cs50s-introduction-to-databases-with-sql)
 - [Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 - [Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 - [Introduction to Cybersecurity](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
 - [Full CS50 List](https://www.edx.org/cs50)
 
-## Android
+## <span style="color: yellow;">Android</span>
 
 - [Modern Android development](https://developer.android.com/modern-android-development)
 - [Understanding Gradle](https://github.com/jjohannes/understanding-gradle)
 
-## More Hardware to Software
+## <span style="color: red;">More Hardware to Software</span>
 
 - [Understanding the Linux Kernel](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652/)
 
-## Other Life Skills
+## <span style="color: green;">Other Life Skills</span>
 
 - [Khan Academy](https://www.khanacademy.org/college-careers-more)
     - [Financial Literacy](https://www.khanacademy.org/college-careers-more/financial-literacy)
