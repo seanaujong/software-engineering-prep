@@ -15,9 +15,12 @@ Even if the topic is difficult, I try to suggest the easiest content possible an
 
 ## 🤔 Harvard CS50's Introduction to Computer Science
 
-CS50's Introduction to Computer Science is the foundation for all of your software engineering skills. Here's what I want you to do:
+CS50's Introduction to Computer Science is the foundation for all of your software engineering skills.
 
-0. Take [CS50's Introduction to Computer Science][3] course
+- [CS50's Introduction to Computer Science][3]
+
+Here's what I want you to do while taking this course:
+
 1. Watch every lecture, section, and short. Don't forget the lecture notes.
 2. Do every practice problem, lab, and problem set question.
 3. Watch [🍀DorsCodingSchool][4]'s solutions to understand the problem-solving thought process.
@@ -65,12 +68,8 @@ Next, get used to LeetCode and coding interviews with the [NeetCode 150](https:/
 This section will help you go from [🍀Two Sum](https://leetcode.com/problems/two-sum/) to [Alien Dictionary](https://www.lintcode.com/problem/892/).
 
 - [🍀Algorithms from Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
-- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
-    - [Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
-- [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
-    - [Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
-- [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-    - [Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+- [Algorithms Illuminated](http://www.algorithmsilluminated.org/)
+- [The Algorithm Design Manual](https://www.algorist.com/)
 
 ## 🤔 Math
 
@@ -89,13 +88,13 @@ My math curriculum in university included [calculus](https://www.youtube.com/pla
 #### Supplementary Linear Algebra
 
 - [Linear Algebra with Khan Academy](https://www.khanacademy.org/math/linear-algebra)
-- [[Short] A 2020 Vision of Linear Algebra](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
-- [[Short] The Big Picture of Linear Algebra](https://www.youtube.com/watch?v=ggWYkes-n6E)
+- [Linear Algebra with 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## 🤬 Hardware to Software
 
 Unless you decide to work on lower-level systems, you don't need to completely master the content in here. However, operating systems are core to any computer science curriculum.
 
+- [🍀How a Computer Works - from silicon to apps](https://www.youtube.com/watch?v=5f3NJnvnk7k)
 - [nand2tetris](https://www.nand2tetris.org/)
 - [Operating System Design - The XINU Approach](https://xinu.cs.purdue.edu/)
 
