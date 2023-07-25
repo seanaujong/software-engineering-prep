@@ -90,8 +90,8 @@ My math curriculum in university included [calculus](https://www.youtube.com/pla
 
 #### Supplementary Linear Algebra
 
-- [Linear Algebra with Khan Academy](https://www.khanacademy.org/math/linear-algebra)
-- [Linear Algebra with 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [🍀Linear Algebra with Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+- [🍀Linear Algebra with 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## 🤬 Hardware to Software
 
