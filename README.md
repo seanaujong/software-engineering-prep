@@ -73,7 +73,10 @@ This section will help you go from [🍀Two Sum](https://leetcode.com/problems/t
 
 ## 🤔 Math
 
-My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. The prerequisite is [🍀high school algebra and trigonometry](https://www.khanacademy.org/). These skills are used in the data science and machine learning fields. This section features courses from HarvardX and MIT OCW.
+My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. You should also understand [🍀high school algebra and trigonometry](https://www.khanacademy.org/). These skills are used in the data science and machine learning fields. This section features courses from HarvardX and MIT OCW.
+
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+    - [Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 
 ### From Probability and Statistics to Data Science
 
