@@ -47,7 +47,7 @@ Robert Nystrom is the author of two free online books that can help you become a
 
 - [Understanding the Linux Kernel](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652/)
 
-## 😎 Other Life Skills
+## 🍀 Other Life Skills
 
 - [Khan Academy](https://www.khanacademy.org/college-careers-more)
     - [Financial Literacy](https://www.khanacademy.org/college-careers-more/financial-literacy)

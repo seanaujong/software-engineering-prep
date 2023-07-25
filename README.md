@@ -4,7 +4,7 @@ This repo covers introductory computer science topics, and lays out a curriculum
 
 I denote the difficulty of each section with the following:
 
-- 😎 Easy
+- 🍀 Easy
 - 🤔 Challenging
 - 🤬 Hard
 
@@ -39,7 +39,7 @@ CS50's Introduction to Computer Science is the foundation for all of your softwa
 - [Introduction to Programming with Python](cs50.harvard.edu/python)
     - [DorsCodingSchool Solutions](https://www.youtube.com/playlist?list=PLo_wesNOyQTNkV3DzBMz5HNfUDrVTEeh9)
 
-## 😎 Cloud
+## 🍀 Cloud
 
 Now that you have some programming experience under the belt, let’s talk about the cloud. It seems like every company these days wants to “move to the cloud.” But what does that mean? Read this book to find out what the cloud is and why it’s so important.
 
