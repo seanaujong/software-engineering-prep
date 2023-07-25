@@ -4,16 +4,16 @@ This repo covers introductory computer science topics, and lays out a curriculum
 
 I denote the difficulty of each section with the following:
 
-- <span style="color: green;">Easy</span>
-- <span style="color: yellow;">Challenging</span>
-- <span style="color: red;">Hard</span>
+- 😎 Easy
+- 🤔 Challenging
+- 🤬 Hard
 
-Even if the topic is <span style="color: red;">hard</span>, I try to suggest the easiest content possible and provide supplementary resources.
+Even if the topic is hard 🤬, I try to suggest the easiest content possible and provide supplementary resources.
 
 [1]: https://www.cs.utexas.edu/sites/default/files/documents/4-Year%20Plan_1.pdf
 [2]: https://medium.com/@seanaujong/a-software-engineering-journey-for-beginners-a08640916929
 
-## <span style="color: yellow;">Harvard CS50's Introduction to Computer Science</span>
+## 🤔 Harvard CS50's Introduction to Computer Science
 
 > Challenging
 
@@ -41,7 +41,7 @@ CS50's Introduction to Computer Science is the foundation for all of your softwa
 - [Introduction to Programming with Python](cs50.harvard.edu/python)
     - [DorsCodingSchool Solutions](https://www.youtube.com/playlist?list=PLo_wesNOyQTNkV3DzBMz5HNfUDrVTEeh9)
 
-## <span style="color: green;">Cloud</span>
+## 😎 Cloud
 
 > Easy
 
@@ -49,7 +49,7 @@ Now that you have some programming experience under the belt, let’s talk about
 
 - [Explain the Cloud Like I'm 10](https://www.amazon.com/dp/B0765C4SNR)
 
-## <span style="color: yellow;">Practical Skills</span>
+## 🤔 Practical Skills
 
 > Challenging
 
@@ -60,7 +60,7 @@ It's important to be familiar with web programming and artificial intelligence. 
     - [[Short] What is the difference between AI and Data Science?](https://www.youtube.com/watch?v=kNrw64dmfpk)
 - [More CS50 Courses](https://www.edx.org/cs50)
 
-## <span style="color: yellow;">Coding Interviews</span>
+## 🤔 Coding Interviews
 
 > Challenging
 
@@ -69,9 +69,7 @@ Next, get used to LeetCode and coding interviews with the [NeetCode 150](https:/
 - [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
 - [Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
 
-## <span style="color: red;">Algorithms and Math</span>
-
-> Hard
+## 🤬 Algorithms and Math
 
 My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. The prerequisite is [high school algebra and trigonometry](https://www.khanacademy.org/). These skills are used in the data science and machine learning fields.
 
@@ -97,9 +95,7 @@ My math curriculum in university included [calculus](https://www.youtube.com/pla
 - [[Short] A 2020 Vision of Linear Algebra](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 - [[Short] The Big Picture of Linear Algebra](https://www.youtube.com/watch?v=ggWYkes-n6E)
 
-## <span style="color: red;">Hardware to Software</span>
-
-> Hard
+## 🤬 Hardware to Software
 
 Unless you decide to work on lower-level systems, you don't need to completely master the content in here. However, operating systems are core to any computer science curriculum.
 
