@@ -2,6 +2,10 @@
 
 These interesting resources serve to further round out your education.
 
+## 🤬 Teach Yourself CS
+
+[Teach Yourself Computer Science](https://teachyourselfcs.com/) is a website that suggests 9 resources to learn computer science. It's meant for people who know how to program already.
+
 ## 🤔 Robert Nystrom
 
 Robert Nystrom is the author of two free online books that can help you become a better software engineer:
