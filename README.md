@@ -4,11 +4,11 @@ This repo covers introductory computer science topics, and lays out a curriculum
 
 I denote the difficulty of each section with the following:
 
-- 🍀 Easy
-- 🤔 Challenging
-- 🤬 Hard
+- 🍀 - Easy
+- 🤔 - Challenging
+- 🤬 - Hard
 
-Even if the topic is hard 🤬, I try to suggest the easiest content possible and provide supplementary resources 🍀.
+Even if the topic is difficult, I try to suggest the easiest content possible and provide 🍀help.
 
 [1]: https://www.cs.utexas.edu/sites/default/files/documents/4-Year%20Plan_1.pdf
 [2]: https://medium.com/@seanaujong/a-software-engineering-journey-for-beginners-a08640916929
