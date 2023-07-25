@@ -62,7 +62,7 @@ Next, get used to LeetCode and coding interviews with the [NeetCode 150](https:/
 
 ## 🤬 Algorithms
 
-This section will help you go from [🍀Two Sum](https://leetcode.com/problems/two-sum/) to [competitive programming](https://usaco.guide/dashboard/).
+This section will help you go from [🍀Two Sum](https://leetcode.com/problems/two-sum/) to [Alien Dictionary](https://www.lintcode.com/problem/892/).
 
 - [🍀Algorithms from Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
