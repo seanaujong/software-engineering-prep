@@ -15,8 +15,6 @@ Even if the topic is hard 🤬, I try to suggest the easiest content possible an
 
 ## 🤔 Harvard CS50's Introduction to Computer Science
 
-> Challenging
-
 CS50's Introduction to Computer Science is the foundation for all of your software engineering skills. Here's what I want you to do:
 
 0. Take [CS50's Introduction to Computer Science][3] course
@@ -43,15 +41,11 @@ CS50's Introduction to Computer Science is the foundation for all of your softwa
 
 ## 😎 Cloud
 
-> Easy
-
 Now that you have some programming experience under the belt, let’s talk about the cloud. It seems like every company these days wants to “move to the cloud.” But what does that mean? Read this book to find out what the cloud is and why it’s so important.
 
 - [Explain the Cloud Like I'm 10](https://www.amazon.com/dp/B0765C4SNR)
 
 ## 🤔 Practical Skills
-
-> Challenging
 
 It's important to be familiar with web programming and artificial intelligence. Make a side project with these skills.
 
@@ -61,8 +55,6 @@ It's important to be familiar with web programming and artificial intelligence. 
 - [More CS50 Courses](https://www.edx.org/cs50)
 
 ## 🤔 Coding Interviews
-
-> Challenging
 
 Next, get used to LeetCode and coding interviews with the [NeetCode 150](https://neetcode.io/practice) list. Did you get stuck? It's time to learn more about algorithms.
 
