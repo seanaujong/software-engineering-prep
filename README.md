@@ -34,7 +34,7 @@ CS50's Introduction to Computer Science is the foundation for all of your softwa
 
 #### If CS50 is too difficult at first, then these two courses may help:
 
-- [Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+- [🍀 Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
     - If you don't consider yourself a "computer person"
 - [Introduction to Programming with Python](cs50.harvard.edu/python)
     - [DorsCodingSchool Solutions](https://www.youtube.com/playlist?list=PLo_wesNOyQTNkV3DzBMz5HNfUDrVTEeh9)
@@ -43,7 +43,7 @@ CS50's Introduction to Computer Science is the foundation for all of your softwa
 
 Now that you have some programming experience under the belt, let’s talk about the cloud. It seems like every company these days wants to “move to the cloud.” But what does that mean? Read this book to find out what the cloud is and why it’s so important.
 
-- [Explain the Cloud Like I'm 10](https://www.amazon.com/dp/B0765C4SNR)
+- [🍀 Explain the Cloud Like I'm 10](https://www.amazon.com/dp/B0765C4SNR)
 
 ## 🤔 Practical Skills
 
@@ -51,7 +51,7 @@ It's important to be familiar with web programming and artificial intelligence. 
 
 - [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 - [Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
-    - [[Short] What is the difference between AI and Data Science?](https://www.youtube.com/watch?v=kNrw64dmfpk)
+    - [🍀 [Short] What is the difference between AI and Data Science?](https://www.youtube.com/watch?v=kNrw64dmfpk)
 - [More CS50 Courses](https://www.edx.org/cs50)
 
 ## 🤔 Coding Interviews
@@ -59,11 +59,11 @@ It's important to be familiar with web programming and artificial intelligence. 
 Next, get used to LeetCode and coding interviews with the [NeetCode 150](https://neetcode.io/practice) list. Did you get stuck? It's time to learn more about algorithms.
 
 - [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
-- [Algorithms from Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
+- [🍀 Algorithms from Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
 
 ## 🤬 Algorithms and Math
 
-My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. The prerequisite is [high school algebra and trigonometry](https://www.khanacademy.org/). These skills are used in the data science and machine learning fields. This section features courses from HarvardX and MIT OCW.
+My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. The prerequisite is [🍀 high school algebra and trigonometry](https://www.khanacademy.org/). These skills are used in the data science and machine learning fields. This section features courses from HarvardX and MIT OCW.
 
 ### From Probability and Statistics to Data Science
 
