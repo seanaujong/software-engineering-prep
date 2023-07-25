@@ -59,11 +59,11 @@ It's important to be familiar with web programming and artificial intelligence. 
 Next, get used to LeetCode and coding interviews with the [NeetCode 150](https://neetcode.io/practice) list. Did you get stuck? It's time to learn more about algorithms.
 
 - [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
-- [Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
+- [Algorithms from Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
 
 ## 🤬 Algorithms and Math
 
-My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. The prerequisite is [high school algebra and trigonometry](https://www.khanacademy.org/). These skills are used in the data science and machine learning fields.
+My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. The prerequisite is [high school algebra and trigonometry](https://www.khanacademy.org/). These skills are used in the data science and machine learning fields. This section features courses from HarvardX and MIT OCW.
 
 ### From Probability and Statistics to Data Science
 
