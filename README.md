@@ -56,7 +56,7 @@ It's important to be familiar with web programming and artificial intelligence. 
 
 ## 🤔 Coding Interviews
 
-Next, get used to LeetCode and coding interviews with the [NeetCode 150](https://neetcode.io/practice) list. Did you get stuck? It's time to learn more about algorithms.
+Next, get used to LeetCode and coding interviews with the [NeetCode 150](https://neetcode.io/practice) list. When you get stuck, move on to the algorithms section.
 
 - [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
 
