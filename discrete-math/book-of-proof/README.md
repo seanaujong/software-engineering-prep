@@ -1,6 +1,6 @@
 # Book of Proof
 
-[Book of Proof by Richard Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+[Book of Proof by Richard Hammack](https://www.people.vcu.edu/\neg rhammack/BookOfProof/)
 
 This is a book about how to prove theorems.
 
