@@ -22,7 +22,7 @@ Let's translate the following sentences into a logical expression:
 - $a$ - "You can access the Internet from campus"
 - $c$ - "You are a computer science major"
 - $f$ - "You are a freshman"
-- $a \implies (c \vee \neg f)$
+- $a \Rightarrow (c \vee \neg f)$
 
 ---
 
@@ -31,7 +31,7 @@ Let's translate the following sentences into a logical expression:
 - $q$ - "You can ride the roller coaster"
 - $r$ - "You are under 4 feet tall"
 - $s$ - "You are older than 16 years old"
-- $(r \wedge \neg s) \implies \neg q$
+- $(r \wedge \neg s) \Rightarrow \neg q$
 
 ## System Specifications
 
@@ -48,7 +48,7 @@ Let's see how compound propositions can be used in this process. Express the fol
 
 Finally,
 
-- $q \implies \neg p$ - "The automated reply cannot be sent when the file system is full"
+- $q \Rightarrow \neg p$ - "The automated reply cannot be sent when the file system is full"
 
 ---
 
@@ -71,13 +71,13 @@ The specifications can then be written as:
 
 - $p \vee q$
 - $\neg p$
-- $p \implies q$
+- $p \Rightarrow q$
 
 We need to find an assignment of truth values that makes all three specifications true.
 
 - To make the specification $\neg p$ true, $p$ must be false.
 - To make the specification of $p \vee q$ true while $p$ is false, then $q$ must be true.
-- $p \implies q$ is true when $p$ is false and $q$ is true
+- $p \Rightarrow q$ is true when $p$ is false and $q$ is true
 
 We conclude that these specifications are consistent, because they are all true when $p = F$ and $q = T$.
 

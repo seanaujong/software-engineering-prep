@@ -51,6 +51,7 @@ because it is a source of many examples and exercises that occur throughout
 the book. (However, the course instructor may choose to omit Chapter 3.)
 
 ## Part II - Proving Conditional Statements
+
 - Chapter 4: Direct Proof
 - Chapter 5: Contrapositive Proof
 - Chapter 6: Proof by Contradiction

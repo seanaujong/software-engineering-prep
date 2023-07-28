@@ -26,9 +26,9 @@ A truth table lists every possible input combination to a system, along with the
 
 ![](img/4-5-truth-table.png)
 
-A `conditional statement` like $p \implies q$ asserts that if $p$ is true, then $q$ MUST be true as well. We say that "$p$ implies $q$".
+A `conditional statement` like $p \Rightarrow q$ asserts that if $p$ is true, then $q$ MUST be true as well. We say that "$p$ implies $q$".
 
-We know $p \implies q$ is false in the scenario where $p` is true but `q$ is false. In this scenario, we say that "$p$ does not imply $q$".
+We know $p \Rightarrow q$ is false in the scenario where $p` is true but `q$ is false. In this scenario, we say that "$p$ does not imply $q$".
 
 ### Example: Politician Pete's Promise
 
@@ -36,9 +36,9 @@ We know $p \implies q$ is false in the scenario where $p` is true but `q$ is fal
 
 - $p$: "Pete is elected"
 - $q$: "Pete will lower taxes"
-- $p \implies q$: "If Pete is elected, then Pete will lower taxes"
+- $p \Rightarrow q$: "If Pete is elected, then Pete will lower taxes"
 
-We say that $p \implies q$ does not hold when Pete breaks his promise. Consider the following scenarios:
+We say that $p \Rightarrow q$ does not hold when Pete breaks his promise. Consider the following scenarios:
 
 - "Pete is not elected; taxes are lowered"
     - Promise kept
@@ -58,18 +58,18 @@ Notice how in these two scenarios, we don't expect anything from Pete if he does
 
 ### Inverse, Converse, and Contrapositive
 
-We can form some new conditional statements starting from $p \implies q$.
+We can form some new conditional statements starting from $p \Rightarrow q$.
 
-- `inverse` - $\neg p \implies \neg q$
-- `converse` - $q \implies p$
-- `contrapositive` - $\neg q \implies \neg p$
+- `inverse` - $\neg p \Rightarrow \neg q$
+- `converse` - $q \Rightarrow p$
+- `contrapositive` - $\neg q \Rightarrow \neg p$
 
-The contrapositive always has the same truth value as $p \implies q$. Why? Because the contrapositive is false only when $\neg q$ is true but $\neg p$ is false.
+The contrapositive always has the same truth value as $p \Rightarrow q$. Why? Because the contrapositive is false only when $\neg q$ is true but $\neg p$ is false.
 
 - In other words, the contrapositive is false only when $q$ is false but $p$ is true ("Pete was elected, but taxes were not lowered").
 - When two compound propositions always have the same truth values, we call them `equivalent`
 
-The inverse and the converse, on the other hand, never have the same truth value as $p \implies q$. This means they are only true when $p$ is true but $q$ is false ("Pete was elected, but taxes were not lowered").
+The inverse and the converse, on the other hand, never have the same truth value as $p \Rightarrow q$. This means they are only true when $p$ is true but $q$ is false ("Pete was elected, but taxes were not lowered").
 
 <img src="img/inverse-converse-contrapositive-truth-table.png" width="250"/>
 
@@ -79,16 +79,16 @@ The inverse and the converse, on the other hand, never have the same truth value
 
 - $p$: "It is raining"
 - $q$: "The home team wins"
-- $p \implies q$: "If it is raining, then the home team wins"
-- $\neg  p \implies \neg q$: "If it is not raining, then the home team will not win"
-- $q \implies p$: "If the home team wins, then it is raining"
-- $\neg q \implies \neg p$: "If the home team does not win, then it is not raining"
+- $p \Rightarrow q$: "If it is raining, then the home team wins"
+- $\neg  p \Rightarrow \neg q$: "If it is not raining, then the home team will not win"
+- $q \Rightarrow p$: "If the home team wins, then it is raining"
+- $\neg q \Rightarrow \neg p$: "If the home team does not win, then it is not raining"
 
 ### Biconditionals
 
 The `biconditional statement`, $p \iff q$, asserts that $p$ and $q$ have the same truth values. We say that "p holds if and only if q holds".
 
-$p \iff q$ has the same truth value as $(p \implies q) \land (q \implies p)$
+$p \iff q$ has the same truth value as $(p \Rightarrow q) \land (q \Rightarrow p)$
 
 > "You can take the flight iff you buy a ticket"
 
