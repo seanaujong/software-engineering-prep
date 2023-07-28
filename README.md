@@ -63,13 +63,15 @@ Next, get used to LeetCode and coding interviews with the [NeetCode 150](https:/
 
 - [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
 
-## 🤬 Discrete Math and Algorithms
+## 🤬 Algorithms, Discrete Math, and Proofs
 
-This section will help you go from [🍀Two Sum](https://leetcode.com/problems/two-sum/) to [Alien Dictionary](https://www.lintcode.com/problem/892/). Understanding algorithms often involves understanding their proofs. Learning discrete math helps you concoct and verify correct algorithms.
+This section will help you go from [🍀Two Sum](https://leetcode.com/problems/two-sum/) to [Alien Dictionary](https://www.lintcode.com/problem/892/). I recommend reading the `Algorithms` section first until you find the need to learn more about `Discrete Math`. If you feel uncomfortable with the proofs inside the Discrete Math section, then it might be useful to go through the `Proofs` section.
 
-### Discrete Math
+### Proofs
 
-Why proofs? Here's an excerpt from the Book of Proof:
+Understanding algorithms often involves understanding their proofs. Learning discrete math helps you concoct and verify correct algorithms.
+
+Why is there a separate section in this document just for proofs? Here's an excerpt from the Book of Proof:
 
 > Until this point in your education, mathematics has probably been
 presented as a primarily computational discipline. You have learned to
@@ -100,6 +102,8 @@ inquisitively about mathematics.
 - [How to Prove It](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
 - [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
   - [Notes](discrete-math/book-of-proof/README.md)
+
+### Discrete Math
 
 Now that we know a thing or two about proofs, discrete math should feel a lot more approachable:
 
