@@ -59,13 +59,59 @@ It's important to be familiar with web programming and artificial intelligence. 
 
 ## 🤔 Coding Interviews
 
-Next, get used to LeetCode and coding interviews with the [NeetCode 150](https://neetcode.io/practice) list. When you get stuck, move on to the algorithms section.
+Next, get used to LeetCode and coding interviews with the [NeetCode 150](https://neetcode.io/practice) list. When you get stuck, it's time to formally learn discrete math and algorithms.
 
 - [Coding Interviews with Python and NeetCode](https://medium.com/@seanaujong/getting-started-with-technical-interviews-for-software-engineering-as-a-college-freshman-64dbecc0b15c)
 
-## 🤬 Algorithms
+## 🤬 Discrete Math and Algorithms
 
-This section will help you go from [🍀Two Sum](https://leetcode.com/problems/two-sum/) to [Alien Dictionary](https://www.lintcode.com/problem/892/).
+This section will help you go from [🍀Two Sum](https://leetcode.com/problems/two-sum/) to [Alien Dictionary](https://www.lintcode.com/problem/892/). Understanding algorithms often involves understanding their proofs. Learning discrete math helps you concoct and verify correct algorithms.
+
+### Discrete Math
+
+Why proofs? Here's an excerpt from the Book of Proof:
+
+> Until this point in your education, mathematics has probably been
+presented as a primarily computational discipline. You have learned to
+solve equations, compute derivatives and integrals, multiply matrices and
+find determinants; and you have seen how these things can answer practical
+questions about the real world. In this setting your primary goal in using
+mathematics has been to compute answers.
+
+> But there is another side of mathematics that is more theoretical than
+computational. Here the primary goal is to understand mathematical
+structures, to prove mathematical statements, and even to invent or discover
+new mathematical theorems and theories. The mathematical techniques
+and procedures that you have learned and used up until now are founded
+on this theoretical side of mathematics. For example, in computing the area
+under a curve, you use the fundamental theorem of calculus. It is because
+this theorem is true that your answer is correct. However, in learning
+calculus you were probably far more concerned with how that theorem could
+be applied than in understanding why it is true. But how do we know it is
+true? How can we convince ourselves or others of its validity? Questions of
+this nature belong to the theoretical realm of mathematics.
+
+> You will learn and apply the methods of thought that mathematicians use to verify theorems,
+explore mathematical truth and create new mathematical theories. This
+will prepare you for advanced mathematics courses, for you will be better
+able to understand proofs, write your own proofs and think critically and
+inquisitively about mathematics.
+
+- [How to Prove It](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
+- [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+  - [Notes](discrete-math/book-of-proof/README.md)
+
+Now that we know a thing or two about proofs, discrete math should feel a lot more approachable:
+
+- [🍀Why Discrete Math?](https://masters.cs.uchicago.edu/page/math-computer-science-discrete-math)
+- [🍀Discrete Math with TrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+  - [🍀Discrete Math 2](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+- [Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
+
+### Algorithms
+
+And now that we have a feel for discrete math, these resources on algorithms won't confuse us whenever they mention proof by mathematical induction:
 
 - [🍀Algorithms from Khan Academy to MIT](https://medium.com/@seanaujong/an-introduction-to-algorithms-d3d5edab5b6a)
 - [Algorithms Illuminated](http://www.algorithmsilluminated.org/)
@@ -73,19 +119,18 @@ This section will help you go from [🍀Two Sum](https://leetcode.com/problems/t
 
 ## 🤔 Math
 
-My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. You should also understand [🍀high school algebra and trigonometry](https://www.khanacademy.org/). These skills are used in the data science and machine learning fields. This section features courses from HarvardX and MIT OCW.
-
-- [🍀Discrete Math with TrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
-    - [🍀Discrete Math 2](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
-- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
-    - [Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
+My math curriculum in university included [calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1), discrete math, probability, statistics, and linear algebra. You should also understand [🍀high school algebra and trigonometry](https://www.khanacademy.org/). This section features courses from HarvardX and MIT OCW.
 
 ### From Probability and Statistics to Data Science
+
+Data science requires background knowledge on probability and statistics.
 
 - [Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
 - [Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
 
 ### Linear Algebra
+
+The concepts of linear algebra are crucial for understanding the theory behind machine learning, especially for deep learning.
 
 - [Linear Algebra with Gilbert Strang](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
