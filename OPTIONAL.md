@@ -6,6 +6,10 @@ These interesting resources serve to further round out your education.
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/) is a website that suggests 9 resources to learn computer science. It's meant for people who know how to program already.
 
+## Zach Star
+
+Zach Star is a YouTuber with a playlist on [computer science](https://www.youtube.com/playlist?list=PLi5WqFHu_OJMouMI0TC6uH4AjqJqKdA0x)
+
 ## 🤔 Robert Nystrom
 
 Robert Nystrom is the author of two free online books that can help you become a better software engineer:
