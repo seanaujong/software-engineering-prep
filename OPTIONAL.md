@@ -25,6 +25,13 @@ The concepts of linear algebra are crucial for understanding the theory behind m
 - [🍀Linear Algebra with Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 - [🍀Linear Algebra with 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+## CS51 - Abstraction and Design in Computation
+
+- [CS51 Website](https://cs51.io/)
+  - [Brian Yu - Key Topics](https://www.youtube.com/playlist?list=PLxA7uoRZbzXlW0XjbtuWow6PmPHe4vU7p)
+
+> CS51 teaches fundamental concepts in the design of computer programs, emphasizing the crucial role of abstraction. The goal of the course is to give students insight into the difference between programming and programming well. One and the same problem can be solved in different ways, and the different solutions can vary along multiple dimensions including correctness, efficiency, readability, scalability, and elegance.
+
 ## 🤬 More Algorithms by MIT
 
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)

@@ -50,8 +50,10 @@ Now that you have some programming experience under the belt, let’s talk about
 
 ## 🤔 More CS50
 
-It's important to be familiar with web programming and artificial intelligence. Your side projects will use at least one of these skills.
+This section features more content from the CS50 series that builds upon your foundational knowledge.
 
+- [🍀CS50 on Twitch](https://www.youtube.com/playlist?list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK)
+  - [Docker](https://www.youtube.com/watch?v=VzzwnsLX_5o&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=24)
 - [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 - [Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
     - [🍀[Short] What is the difference between AI and Data Science?](https://www.youtube.com/watch?v=kNrw64dmfpk)
