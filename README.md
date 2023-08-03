@@ -2,6 +2,8 @@
 
 This repo covers introductory computer science topics, and lays out a curriculum that resembles my [college degree][1]. You can also read my blog on [what I used to learn software engineering][2].
 
+> Disclaimer: The content I post is NOT a replacement for a college degree. I strongly encourage pursuing a four-year computer science degree if you want to have a career in software engineering.
+
 I denote the difficulty of each section with the following:
 
 - 🍀 - Easy

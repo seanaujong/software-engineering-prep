@@ -86,3 +86,13 @@ $$
 $$
 
 Show that $(p \land q) \Rightarrow (p \lor q)$ is a tautology
+
+$$
+\begin{align*}
+(p \land q) \Rightarrow (p \lor q) &\equiv \neg (p \land q) \lor (p \lor q) &&\text{conditional disjunction equivalence} \\
+&\equiv (\neg p \lor \neg q) \lor (p \lor q) &&\text{De Morgan law} \\
+&\equiv (\neg p \lor p) \lor (\neg q \lor q) &&\text{associative and commutative disjunction laws} \\
+&\equiv T \lor T &&\text{commutative law for disjunction} \\
+&\equiv T &&\text{domination law}
+\end{align*}
+$$
