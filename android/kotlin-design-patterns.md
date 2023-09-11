@@ -34,4 +34,14 @@ Creational patterns deal with how and when you create your objects. Mastering th
 - `Prototypes` let you clone an object easily
     - Data classes have a `.copy()` method that also lets you modify the clone
 
+# Structural Patterns
 
+Structural patterns deal with relationships between objects. These patterns help us extend the functionality of our objects without producing complex class hierarchies.
+
+- A `Decorator` helps us create a set of classes with slightly different behavior.
+- An `Adapter` helps us convert one interface to another interface
+- `Bridge`
+- `Composite`
+- `Facade`
+- `Flyweight`
+- `Proxy`
